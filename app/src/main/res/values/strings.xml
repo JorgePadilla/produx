@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Produx</string>
+    <string-array name="Countries">
+        <item>Honduras</item>
+        <item>Guatemala</item>
+    </string-array>
+</resources>

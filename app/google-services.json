@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "944462561531",
+    "firebase_url": "https://produx-e7ee1.firebaseio.com",
+    "project_id": "produx-e7ee1",
+    "storage_bucket": "produx-e7ee1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944462561531:android:c4b2e222bbf147d3",
+        "android_client_info": {
+          "package_name": "com.taphn.productx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944462561531-ajb41uj99fo9bbiahq7poai9e20v7c1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
